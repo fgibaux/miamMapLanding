@@ -21,7 +21,8 @@ header[role="banner"]{
   padding-top: 150px;
   padding-bottom: 150px;
   color: white;
-  background: url("http://lorempixel.com/1300/600/nightlife")
+  background: url("http://lorempixel.com/1300/600/nightlife");
+  background-size: cover;
 }
 
 .feature{
